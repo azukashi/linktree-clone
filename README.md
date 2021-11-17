@@ -25,9 +25,9 @@ $ yarn install
 
 > You can use <kbd>npm</kbd> or <kbd>pnpm</kbd> as package manager.
 
-### Start editing <kbd>src/main.ts</kbd>
+### Start editing `src/main.ts`
 
-All data (Name, username, avatarUrl, url) is defined at <kbd>src/main.ts</kbd>. You just easily edit and manage it.
+All data (Name, username, avatarUrl, url) is defined at `src/main.ts`. You just easily edit and manage it.
 
 ### Start development server
 
