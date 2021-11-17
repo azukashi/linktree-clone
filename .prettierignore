@@ -1,0 +1,5 @@
+# Build Result
+public/build/
+
+# 1TB Node Modules
+node_modules/
