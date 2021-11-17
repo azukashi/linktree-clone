@@ -2,7 +2,7 @@
 
 # Linktree Clone
 
-[![Image Preview](https://cdn.upload.systems/uploads/1YwwKBCK.png)](https://i.upload.systems/uploads/1YwwKBCK.png)
+[![Image Preview](https://cdn.upload.systems/uploads/1YwwKBCK.png)](https://gifaldyazkaa-linktree.vercel.app)
 
 </div>
 
@@ -36,6 +36,10 @@ $ yarn run dev
 ```
 
 :tada: The server is going live right now. Open http://localhost:3000 to see the result.
+
+## Live Demo
+
+You can visit [gifaldyazkaa-linktree.vercel.app](https://gifaldyazkaa-linktree.vercel.app) If you want to see the demo version.
 
 ## License
 
