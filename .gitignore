@@ -118,7 +118,7 @@ dist
 .pnp.*
 
 # Editor things
-.vscode/
+.vscode/settings.json
 
 # Build Result
 public/build/
