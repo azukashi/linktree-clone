@@ -39,11 +39,21 @@ $ yarn run dev
 $ dum dev
 ```
 
-:tada: The server is going live right now. Open http://localhost:3000 to see the result.
+### :tada: Open http://localhost:3000 to see the result.
+
+### ⚡ Optimizing for Production
+
+```sh
+# Using yarn
+$ yarn run build
+
+# Using dum
+$ dum build
+```
 
 ## 🌐 Live Demo
 
-You can visit [gifaldyazkaa-linktree.vercel.app](https://gifaldyazkaa-linktree.vercel.app) If you want to see the demo version.
+Visit [gifaldyazkaa-linktree.vercel.app](https://gifaldyazkaa-linktree.vercel.app) to see Demo version.
 
 ## 📜 License
 
