@@ -27,7 +27,7 @@ $ yarn install
 
 ### 📝 Start editing `src/main.ts`
 
-All data (Name, username, avatarUrl, url) is defined at `src/main.ts`. You just easily edit and manage it.
+All data (Name, username, avatarUrl, url) is defined at `src/main.ts`. You can just easily edit and manage it.
 
 ### 🏃 Run the app in development server
 
