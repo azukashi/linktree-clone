@@ -2,7 +2,7 @@
 
 # 🔗 Linktree Clone
 
-[![Image Preview](https://cdn.upload.systems/uploads/1YwwKBCK.png)](https://gifaldyazkaa-linktree.vercel.app)
+[![Image Preview](https://cdn.upload.systems/uploads/bWSqBLii.png)](https://gifaldyazkaa-linktree.vercel.app)
 
 </div>
 
