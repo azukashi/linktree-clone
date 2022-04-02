@@ -23,6 +23,11 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@fortawesome/fontawesome-common-types@6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.1.tgz#7dc996042d21fc1ae850e3173b5c67b0549f9105"
+  integrity sha512-wVn5WJPirFTnzN6tR95abCx+ocH+3IFLXAgyavnf9hUmN0CfWoDjPT/BAWsUVwSlYYVBeCLJxaqi7ZGe4uSjBA==
+
 "@fortawesome/fontawesome-common-types@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.3.0.tgz#949995a05c0d8801be7e0a594f775f1dbaa0d893"
@@ -33,12 +38,12 @@
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-6.0.0.tgz#6f3bd8e42997c7d536a1246877ed8bcd4f005a54"
   integrity sha512-6LB4PYBST1Rx40klypw1SmSDArjFOcfBf2LeX9Zg5EKJT2eXiyiJq+CyBYKeXyK0sXS2FsCJWSPr/luyhuvh0Q==
 
-"@fortawesome/free-brands-svg-icons@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-6.0.0.tgz#c69830ec2fad38c95945867f4e6927bf33cce6f8"
-  integrity sha512-BIhsy2YeGuk8+KQwpqmyayQDWo1lvGMHsMIE+z5ApPRgV7T+zGhmNzYVoBT4IrJMC6ep5WpGrxoHX+IvNxHnkw==
+"@fortawesome/free-brands-svg-icons@6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-6.1.1.tgz#3580961d4f42bd51dc171842402f23a18a5480b1"
+  integrity sha512-mFbI/czjBZ+paUtw5NPr2IXjun5KAC8eFqh1hnxowjA4mMZxWz4GCIksq6j9ZSa6Uxj9JhjjDVEd77p2LN2Blg==
   dependencies:
-    "@fortawesome/fontawesome-common-types" "^0.3.0"
+    "@fortawesome/fontawesome-common-types" "6.1.1"
 
 "@fortawesome/free-solid-svg-icons@6.0.0":
   version "6.0.0"
@@ -103,10 +108,10 @@
     is-module "^1.0.0"
     resolve "^1.19.0"
 
-"@rollup/plugin-typescript@^8.0.0":
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/@rollup/plugin-typescript/-/plugin-typescript-8.3.0.tgz#bc1077fa5897b980fc27e376c4e377882c63e68b"
-  integrity sha512-I5FpSvLbtAdwJ+naznv+B4sjXZUcIvLLceYpITAn7wAP8W0wqc5noLdGIp9HGVntNhRWXctwPYrSSFQxtl0FPA==
+"@rollup/plugin-typescript@8.3.1":
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/@rollup/plugin-typescript/-/plugin-typescript-8.3.1.tgz#b7dc75ed6b4876e260b9e80624fab23bc98e4ac1"
+  integrity sha512-84rExe3ICUBXzqNX48WZV2Jp3OddjTMX97O2Py6D1KJaGSwWp0mDHXj+bCGNJqWHIEKDIT2U0sDjhP4czKi6cA==
   dependencies:
     "@rollup/pluginutils" "^3.1.0"
     resolve "^1.17.0"
@@ -733,10 +738,10 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.67.2:
-  version "2.67.2"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.67.2.tgz#d95e15f60932ad21e05a870bd0aa0b235d056f04"
-  integrity sha512-hoEiBWwZtf1QdK3jZIq59L0FJj4Fiv4RplCO4pvCRC86qsoFurWB4hKQIjoRf3WvJmk5UZ9b0y5ton+62fC7Tw==
+rollup@2.70.1:
+  version "2.70.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.70.1.tgz#824b1f1f879ea396db30b0fc3ae8d2fead93523e"
+  integrity sha512-CRYsI5EuzLbXdxC6RnYhOuRdtz4bhejPMSWjsFLfVM/7w/85n2szZv6yExqUXsBdz5KT8eoubeyDUDjhLHEslA==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -769,10 +774,10 @@ sander@^0.5.0:
     mkdirp "^0.5.1"
     rimraf "^2.5.2"
 
-sass@1.49.7:
-  version "1.49.7"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.49.7.tgz#22a86a50552b9b11f71404dfad1b9ff44c6b0c49"
-  integrity sha512-13dml55EMIR2rS4d/RDHHP0sXMY3+30e1TKsyXaSz3iLWVoDWEoboY8WzJd5JMnxrRHffKO3wq2mpJ0jxRJiEQ==
+sass@1.49.10:
+  version "1.49.10"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.49.10.tgz#7b83cee0f03bbba443111b3f94944fde2b0c7a6b"
+  integrity sha512-w37zfWJwKu4I78U4z63u1mmgoncq+v3iOB4yzQMPyAPVHHawaQSnu9C9ysGQnZEhW609jkcLioJcMCqm75JMdg==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
     immutable "^4.0.0"
@@ -933,10 +938,10 @@ svelte@3.46.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.4.tgz#0c46bc4a3e20a2617a1b7dc43a722f9d6c084a38"
   integrity sha512-qKJzw6DpA33CIa+C/rGp4AUdSfii0DOTCzj/2YpSKKayw5WGSS624Et9L1nU1k2OVRS9vaENQXp2CVZNU+xvIg==
 
-sveltestrap@5.8.4:
-  version "5.8.4"
-  resolved "https://registry.yarnpkg.com/sveltestrap/-/sveltestrap-5.8.4.tgz#b0bfa79f2c2d5acab88b160aa766d255c5ac27a3"
-  integrity sha512-8G6/HFiC2uBduX/NZrZbSptceckxCZkryjPyuB8KxksxdCjWhg2NTGlBAbZrhwembIsfKznvEWZBtuH2/ca00w==
+sveltestrap@5.9.0:
+  version "5.9.0"
+  resolved "https://registry.yarnpkg.com/sveltestrap/-/sveltestrap-5.9.0.tgz#69cffd4d1178d69da423b097a34d185294b9e1c0"
+  integrity sha512-ZSiYKYrKhDMhhbamnAFK3RK/uqUdcLgjae5Fk3GYdv6Ccth0tN2y6vSg+Vp/PBTYc51u08ZwnYvt8SfWSRNCMA==
   dependencies:
     "@popperjs/core" "^2.9.2"
 
