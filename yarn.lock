@@ -923,10 +923,10 @@ svelte-preprocess@4.10.6, svelte-preprocess@^4.0.0:
     sorcery "^0.10.0"
     strip-indent "^3.0.0"
 
-svelte-seo@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/svelte-seo/-/svelte-seo-1.4.0.tgz#ab09a651d3ed36b046ef5d1bf7a645d59fbaded6"
-  integrity sha512-44kvY3+t8QBjjQPlKIXXRSgp+XzV0OBO4qLs0T3nx7lzgxVzmDI1G+nAgrSYXMbmZAZmmvZGpZpbUBTJckM0Lw==
+svelte-seo@1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/svelte-seo/-/svelte-seo-1.4.1.tgz#8b1230b93caebc59b4cfaeeb1f53017047bac275"
+  integrity sha512-ud0vdQrAVvZHLFsYznimlKdxWC47GqYWgOBBTr3mYDPouBPQHYDazEFredmwUm5boVoMRffu/aOJ5Yj1xQQibA==
   dependencies:
     schema-dts "^0.8.2"
 
